@@ -19,4 +19,4 @@ Features demonstrated in this example
 About Grid
 =============
 based on http://www.codeproject.com/KB/miscctrl/DataGridControl.aspx or http://www.codeguru.com/cpp/controls/controls/gridcontrol/article.php/c10319/CDataGrid-Control.htm
-sample runs on Win32-framework http://sourceforge.net/projects/win32-framework/
+Sample runs on Win32-framework http://sourceforge.net/projects/win32-framework/
