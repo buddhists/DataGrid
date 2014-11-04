@@ -1,0 +1,173 @@
+# depslib dependency file v1.0
+1304603392 source:h:\jjwang\vcexpress\w\win32-framework\samples\grid\src\mygrid.cpp
+	"stdafx.h"
+	"MyGrid.h"
+	"resource.h"
+
+1304168430 h:\jjwang\vcexpress\w\win32-framework\samples\grid\src\stdafx.h
+	"targetver.h"
+	<vector>
+	<map>
+	<string>
+	<sstream>
+	<assert.h>
+	<stdio.h>
+	<stdlib.h>
+	<tchar.h>
+	<controls.h>
+	<dialog.h>
+	<docking.h>
+	<frame.h>
+	<gdi.h>
+	<listview.h>
+	<mdi.h>
+	<propertysheet.h>
+	<rebar.h>
+	<socket.h>
+	<statusbar.h>
+	<stdcontrols.h>
+	<toolbar.h>
+	<treeview.h>
+	<webbrowser.h>
+	<wincore.h>
+
+1304168224 h:\jjwang\vcexpress\w\win32-framework\samples\grid\src\targetver.h
+
+1304573588 h:\jjwang\vcexpress\w\win32-framework\include\controls.h
+	"wincore.h"
+
+1304598698 h:\jjwang\vcexpress\w\win32-framework\include\wincore.h
+	"wcestddef.h"
+	<assert.h>
+	<vector>
+	<algorithm>
+	<string>
+	<map>
+	<windows.h>
+	<commctrl.h>
+	<tchar.h>
+	<shlwapi.h>
+	"shared_ptr.h"
+	"winutils.h"
+	"gdi.h"
+
+1300681950 h:\jjwang\vcexpress\w\win32-framework\include\wcestddef.h
+	<ceconfig.h>
+	"DeviceResolutionAware.h"
+	<altcecrt.h>
+	<aygshell.h>
+
+1304315168 h:\jjwang\vcexpress\w\win32-framework\include\shared_ptr.h
+
+1304573588 h:\jjwang\vcexpress\w\win32-framework\include\winutils.h
+
+1304315168 h:\jjwang\vcexpress\w\win32-framework\include\gdi.h
+	"wincore.h"
+
+1304315168 h:\jjwang\vcexpress\w\win32-framework\include\dialog.h
+	"wincore.h"
+
+1304315168 h:\jjwang\vcexpress\w\win32-framework\include\docking.h
+	"wincore.h"
+	"gdi.h"
+	"toolbar.h"
+	"tab.h"
+	"frame.h"
+	"default_resource.h"
+
+1304315168 h:\jjwang\vcexpress\w\win32-framework\include\toolbar.h
+	"wincore.h"
+	"gdi.h"
+	"rebar.h"
+
+1304315168 h:\jjwang\vcexpress\w\win32-framework\include\rebar.h
+	"wincore.h"
+	"gdi.h"
+
+1304315168 h:\jjwang\vcexpress\w\win32-framework\include\tab.h
+	"wincore.h"
+	"dialog.h"
+	"gdi.h"
+	"default_resource.h"
+
+1302778798 h:\jjwang\vcexpress\w\win32-framework\include\default_resource.h
+
+1304315168 h:\jjwang\vcexpress\w\win32-framework\include\frame.h
+	"wincore.h"
+	"dialog.h"
+	"gdi.h"
+	"statusbar.h"
+	"toolbar.h"
+	"rebar.h"
+	"default_resource.h"
+
+1304315168 h:\jjwang\vcexpress\w\win32-framework\include\statusbar.h
+	"wincore.h"
+
+1304315168 h:\jjwang\vcexpress\w\win32-framework\include\listview.h
+	"wincore.h"
+	"commctrl.h"
+
+1304315168 h:\jjwang\vcexpress\w\win32-framework\include\mdi.h
+	"frame.h"
+	<vector>
+
+1304315168 h:\jjwang\vcexpress\w\win32-framework\include\propertysheet.h
+	"dialog.h"
+
+1304315168 h:\jjwang\vcexpress\w\win32-framework\include\socket.h
+	"wincore.h"
+	<winsock2.h>
+	<ws2tcpip.h>
+	<process.h>
+
+1304315168 h:\jjwang\vcexpress\w\win32-framework\include\stdcontrols.h
+	"wincore.h"
+
+1304315168 h:\jjwang\vcexpress\w\win32-framework\include\treeview.h
+	"wincore.h"
+	"commctrl.h"
+
+1304315168 h:\jjwang\vcexpress\w\win32-framework\include\webbrowser.h
+	<exdisp.h>
+	<ocidl.h>
+
+1304601154 h:\jjwang\vcexpress\w\win32-framework\samples\grid\src\mygrid.h
+	"DataGrid/DataGrid.h"
+
+1304603058 h:\jjwang\vcexpress\w\win32-framework\samples\grid\src\datagrid\datagrid.h
+	"..\stdafx.h"
+	<windows.h>
+
+1304170480 h:\jjwang\vcexpress\w\win32-framework\samples\grid\src\resource.h
+
+1304603362 source:h:\jjwang\vcexpress\w\win32-framework\samples\grid\src\resource.rc
+	"resource.h"
+	"windows.h"
+
+1304168224 source:h:\jjwang\vcexpress\w\win32-framework\samples\grid\src\stdafx.cpp
+	"stdafx.h"
+
+1304169946 source:h:\jjwang\vcexpress\w\win32-framework\samples\grid\src\main.cpp
+	"stdafx.h"
+	"GridApp.h"
+	<vld.h>
+
+1304168224 h:\jjwang\vcexpress\w\win32-framework\samples\grid\src\gridapp.h
+	"MyGrid.h"
+
+1304168932 source:h:\jjwang\vcexpress\w\win32-framework\samples\grid\src\gridapp.cpp
+	"stdafx.h"
+	"GridApp.h"
+	"resource.h"
+
+1300742440 d:\freetools\visualleakdetector\include\vld.h
+	"vld_def.h"
+	<windows.h>
+
+1299830966 d:\freetools\visualleakdetector\include\vld_def.h
+
+1304689632 source:h:\jjwang\vcexpress\w\win32-framework\samples\grid\src\datagrid\datagrid.cpp
+	"..\stdafx.h"
+	"DataGrid.h"
+
